@@ -12,7 +12,8 @@
       "telegram_link":"https://t.me/l_o_k_e",
       "active":true,
       "supported_versions":[
-         "11"
+         "11",
+         "12"
       ],
       "supported_types":[
          "GAPPS",
