@@ -221,7 +221,8 @@
       "telegram_link":"https://t.me/chiru2000",
       "active":true,
       "supported_versions":[
-         "11"
+         "11",
+         "12"
       ],
       "supported_types":[
          "GAPPS"
